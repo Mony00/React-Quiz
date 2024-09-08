@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### `npm run server`
+
+runs the face api that i created from a json file
+
+components:
+questions: which are fetched from the API
+proggressbar: number of questions, numper of points, visual representation
+question: the actual question, and the answers
+timer
+finished creen: displays the highsore from localstorage and the users score
